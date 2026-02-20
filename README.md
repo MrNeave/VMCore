@@ -9,3 +9,9 @@
 Желаешь потанцевать со своими друзьями и разговаривать в самом Minecraft?
 Ведь у нас есть SVC,PV,EmoteCraft!
 VoiceMine — возращение в родной сервер.
+
+<img width="256" height="256" alt="GL-Emote" src="https://github.com/user-attachments/assets/0eed12d1-bb97-48da-9144-48beeb95efb4" />
+
+РЕКОМЕНДУЕМ СКАЧАТЬ ПАК ЭМОЦИЙ!
+
+https://spemotes.com/download/
