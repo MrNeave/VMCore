@@ -1,4 +1,6 @@
-![i](https://github.com/user-attachments/assets/2751a345-35a8-42d6-a46c-ddb3340c612f)
+<img width="300" height="187" alt="logos-1000x624-vmc-300x187" src="https://github.com/user-attachments/assets/a0ccb155-9f5d-4c71-83c3-81ae8663dbc7" />
+
+
 
 VMCore
 Клиентский модпак для сервера VoiceMine
