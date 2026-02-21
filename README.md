@@ -1,6 +1,7 @@
 ![i](https://github.com/user-attachments/assets/2751a345-35a8-42d6-a46c-ddb3340c612f)
 
-Клиентский модпак для сервера VMCore
+VMCore
+Клиентский модпак для сервера VoiceMine
 
 Скачать модпак 1.21.1 [Версия 1.0.1] (21.02.2026):
 
