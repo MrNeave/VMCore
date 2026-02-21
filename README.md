@@ -5,7 +5,7 @@ VMCore
 
 Скачать модпак 1.21.1 [Версия 1.0.2] (21.02.2026):
 
-Все сборки:https://github.com/MrNeave/VMCore/releases
+Все сборки:https://github.com/MrNeave/VMCore/releases/tag/VMCoreUpdate2
 
 Желаешь потанцевать со своими друзьями и разговаривать в самом Minecraft?
 Ведь у нас есть SVC,PV,EmoteCraft!
