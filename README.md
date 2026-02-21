@@ -20,3 +20,9 @@ VoiceMine — возращение в родной сервер.
 1.21.4
 
 Другие версии расмотрим позже!
+
+<img width="52" height="56" alt="192112078-9bfa4832-823f-4bd1-ab6c-e1480bc2b62b" src="https://github.com/user-attachments/assets/55f51616-d119-4b0d-8654-c5d28e458dc9" />
+
+Java: 21 для 1.21.1
+
+Версия Minecraft: Fabric 1.21.1
