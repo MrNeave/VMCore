@@ -3,7 +3,7 @@
 VMCore
 Клиентский модпак для сервера VoiceMine
 
-Скачать модпак 1.21.1 [Версия 1.0.2] (21.02.2026):
+Скачать модпак 1.21.1 [Версия 1.0.3] (21.02.2026):
 
 Все сборки:https://github.com/MrNeave/VMCore/releases/tag/VMCoreUpdate2
 
