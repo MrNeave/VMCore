@@ -1,4 +1,5 @@
-<img width="300" height="187" alt="logos-1000x624-vmc-300x187" src="https://github.com/user-attachments/assets/a0ccb155-9f5d-4c71-83c3-81ae8663dbc7" />
+<img width="1200" height="600" alt="1200x600wa-Photoroom-edited-free (carve photos)" src="https://github.com/user-attachments/assets/536ff427-411c-4a10-9c59-383cece9a54a" />
+
 
 VMCore
 Клиентский модпак для сервера VoiceMine
