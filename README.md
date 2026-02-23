@@ -1,4 +1,4 @@
-<img width="375" height="170" alt="1200x600wa-Photoroom-edited-free (carve photos) (1) (1) (1)" src="https://github.com/user-attachments/assets/b0ab90c4-7685-4497-87de-2e94cb5ea14b" />
+<img width="512" height="512" alt="unnamed" src="https://github.com/user-attachments/assets/0c2a3d65-f311-493e-b085-f8e76262eefc" />
 
 
 
