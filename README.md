@@ -1,8 +1,5 @@
 <img width="512" height="512" alt="unnamed" src="https://github.com/user-attachments/assets/0c2a3d65-f311-493e-b085-f8e76262eefc" />
 
-
-
-
 VMCore
 Клиентский модпак для сервера VoiceMine
 
