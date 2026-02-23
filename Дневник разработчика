@@ -1,3 +1,16 @@
 Мне не очень хотелось такое говорить но на днях я начал изучать снова KLauncher на наличие ошибок или дыр.
 Я нашёл много чего и скрытых файлов от которых могу отолкнуться может начать писать сборку с сервером в другую сторону.
+
+Модринт не знаю кто!?
+Для версии VMCore 1.0.1 пришлось вырезать 2 мода и врать что было изменено
+Авто-мод дурак или прикидывается???
+Version 1.0.1: Copyrighted Content
+The following content is not allowed in Modrinth modpacks, regardless of permission obtained. This may be because it breaks Modrinth's content rules or because the authors, upon being contacted for permission, have declined. 
+Please remove the content from your modpack:
+
+overrides/mods/cupboard-fabric-1.21.4-1.21-2.9.jar
+overrides/mods/betterfpsdist-fabric-1.21-6.0.jar
+
+Естесвенно мне пришлось удалить 2 мода с сборки и перезаливать сборку с удалением данных модов 
+Но на GitHub тоже их нету Возможно буду делать сборку с ними отдельну как версию
 23 февраля 2026 год
