@@ -8,6 +8,7 @@ VMCore
 Все сборки:https://github.com/MrNeave/VMCore/releases
 
 Желаешь потанцевать со своими друзьями и разговаривать в самом Minecraft?
+
 Ведь у нас есть SVC,PV,EmoteCraft!
 
 В разработке: 26.1
