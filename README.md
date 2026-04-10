@@ -5,6 +5,8 @@ VMCore
 
 Скачать модпак 1.21.8-1.21.11 [Версия 1.1.3] (10.04.2026)
 
+Скачать модпак 26.1 [BETA] : [https://github.com/MrNeave/VMCore/releases/tag/vmcorebeta261]
+
 Все сборки: [https://github.com/MrNeave/VMCore/releases]
 
 Желаешь потанцевать со своими друзьями и разговаривать в самом Minecraft?
