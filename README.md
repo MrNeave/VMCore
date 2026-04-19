@@ -19,3 +19,4 @@ VMCore
 
 Обсудим решение проблем
 
+Скачать эмоции: 5000+: [https://drive.google.com/drive/folders/1qx2ETaw3K00zQi1mqOGph0hn_NzUESfZ?usp=sharing]
