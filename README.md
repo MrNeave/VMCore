@@ -9,7 +9,6 @@ VMCore
 Скачать модпак 26.1 [BETA 2]: 
 [https://github.com/MrNeave/VMCore/releases/tag/vmcorebeta261] (10.04.2026)
 
-Скачать модпак 26.1 [BETA 2]: [https://github.com/MrNeave/VMCore/releases/tag/vmcorebeta261] (10.04.2026)
 
 Желаешь потанцевать со своими друзьями и разговаривать в самом Minecraft?
 
