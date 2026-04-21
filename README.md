@@ -9,7 +9,7 @@ VMCore
 Скачать модпак 26.1 [BETA 2]: 
 [https://github.com/MrNeave/VMCore/releases/tag/vmcorebeta261] (20.04.2026)
 
-В разработке: 1.21.11 
+В разработке: 1.21.11 26.1
 
 Нашли баг? Ошибку? Вылетает?
 
