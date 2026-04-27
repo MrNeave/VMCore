@@ -1,7 +1,7 @@
 <img width="200" height="200" alt="unnamed" src="https://github.com/user-attachments/assets/16c388da-2b1f-45a8-bfce-e4517f122b30" />
 
-#VMCore
-#Клиентский модпак для серверов майнкрафт
+# VMCore
+# Клиентский модпак для серверов майнкрафт
 
 Скачать модпак 1.21.11 [Версия 1.1.6]:
 [https://github.com/MrNeave/VMCore/releases] (26.04.2026)
