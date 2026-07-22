@@ -3,8 +3,8 @@
 # VMCore
 Клиентский модпак для серверов майнкрафт
 
-Скачать модпак 1.21.11 [Версия 1.1.7]:
-[https://github.com/MrNeave/VMCore/releases] (07.05.2026)
+Скачать модпак 1.21.11 [Версия 1.1.8]:
+[https://github.com/MrNeave/VMCore/releases] (22.07.2026)
 
 Скачать модпак 26.1.2 [BETA 3]: 
 [https://github.com/MrNeave/VMCore/releases/tag/vmcorebeta261] (04.05.2026)
