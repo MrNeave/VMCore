@@ -1,4 +1,5 @@
-<img width="200" height="200" alt="unnamed" src="https://github.com/user-attachments/assets/16c388da-2b1f-45a8-bfce-e4517f122b30" />
+<img width="1254" height="1254" alt="VMCore" src="https://github.com/user-attachments/assets/74f43579-0e99-4f67-b37d-ea12b492ee01" />
+
 
 # VMCore
 Клиентский модпак для серверов майнкрафт
