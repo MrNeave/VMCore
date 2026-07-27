@@ -12,13 +12,13 @@ https://github.com/MrNeave/VMCore/releases/tag/VMCore112 (31.03.2026)
 Скачать модпак 1.21.8 [Версия 1.1.3]:
 https://github.com/MrNeave/VMCore/releases#release-vmcore113 (10.04.2026)
 
-Скачать модпак 1.21.11 [Версия 1.1.8]:
-[https://github.com/MrNeave/VMCore/releases] (22.07.2026)
+Скачать модпак 1.21.11 [Версия 1.1.9]:
+[https://github.com/MrNeave/VMCore/releases] (26.07.2026)
 
-Скачать модпак 26.1.2 [Версия 1.0.0]: 
-https://github.com/MrNeave/VMCore/releases (22.07.2026)
+Скачать модпак 26.2 [Версия 1.0.1]: 
+https://github.com/MrNeave/VMCore/releases (27.07.2026)
 
-В разработке: 26.2 (Скоро!)
+В разработке: -
 
 Нашли баг? Ошибку? Вылетает?
 
